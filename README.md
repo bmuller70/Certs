@@ -35,6 +35,7 @@ Bem-vindo ao meu repositório de certificações! Este espaço é dedicado a cen
 | Power BI Desktop: ETL no Power Query | Power BI | [Acessar](https://cursos.alura.com.br/certificate/c268ed6e-4011-42db-af5b-ebe66ff017a8?lang=pt_BR) |
 | Excel: Tabelas e Gráficos Dinâmicos | Excel | [Acessar](https://cursos.alura.com.br/certificate/5006ace4-48d1-4167-8a2f-c4d3f14811b4?lang=pt_BR) |
 | Excel: Lógica Booleana e Busca (VLOOKUP/INDEX) | Excel | [Acessar](https://cursos.alura.com.br/certificate/9e46d04e-6a8c-48a6-aea3-65b4de731d01?lang=pt_BR) |
+| Divulgação Científica (MOOC) | StoryTelling | [Acessar](https://campusvirtual.fiocruz.br/gestordecursos/hotsite/divulgacao-cientifica-mooc/$1$pZuo) |
 
 ## 💻 Engenharia & Linguagens
 *Fundamentos de programação e sistemas.*
