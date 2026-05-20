@@ -16,6 +16,7 @@ Bem-vindo ao meu repositório de certificações! Este espaço é dedicado a cen
 | Pandas: Limpeza e Tratamento de Dados | Alura | [Acessar](https://cursos.alura.com.br/certificate/6cea8fcf-ae7a-42e5-8d23-c46cce236f28?lang=pt_BR) |
 | Pandas I/O: Diferentes Formatos de Arquivos | Alura | [Acessar](https://cursos.alura.com.br/certificate/71260bb3-9424-4c25-9e19-e49f79303c8e?lang=pt_BR) |
 | Data Visualization com Python | Alura | [Acessar](https://cursos.alura.com.br/certificate/d34d6710-a3a5-40ae-84d5-8fd3b095f54a?lang=pt_BR) |
+| Data Visualization: gráficos de comparação e distribuição | Alura | [Acessar](https://cursos.alura.com.br/certificate/54b0ba0f-7c7b-4a6b-a5ad-e64548bd442c?lang=pt_BR) |
 
 ## 🤖 Machine Learning & Visão Computacional
 *Implementação de redes neurais e processamento de imagem.*
